@@ -1,4 +1,4 @@
-
+## from : https://arxiv.org/pdf/1902.07810.pdf
 import scipy.misc as misc
 import torch
 import copy
